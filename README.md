@@ -8,3 +8,6 @@ Analysis of time complexity of following algorithms
 -> Insertion Sort
 
 -> Merge Sort
+
+
+The program will calculate the time taken by the system and also compare them and will show the comparision on output.
